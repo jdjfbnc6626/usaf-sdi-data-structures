@@ -1,3 +1,9 @@
+################################################
+Cloned, rather than forked, https://github.com/gSchool/usaf-sdi-data-structures , so upstream merging request is busted.
+################################################
+Paired programming with  https://github.com/tissawd
+################################################
+
 # Exercise: Data Structures
 
 # Sprint One: Object-Oriented Programming
